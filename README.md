@@ -10,6 +10,7 @@ I work mostly in **TypeScript and React**, and I'm comfortable below the UI: Nod
 |---|---|---|
 | [little-life](https://github.com/NahuelBurdisso/little-life) | Small-town life simulation with LLM-driven characters: memory, gossip, economy, elections. 1,200+ commits, 370+ test files | React 19, PixiJS (canvas), tRPC, SQLite, TypeScript |
 | [jalapenio](https://github.com/NahuelBurdisso/jalapenio) | Motion-led studio site with a lazy WebGL hero and SVG fallback — [live](https://www.jalapeno.studio) | Astro, React, React Three Fiber, Tailwind v4 |
+| [visual-task-sample](https://github.com/NahuelBurdisso/visual-task-sample) | A UI mockup turned into a coding task with automated checks, a reference solution, and a plausible-but-wrong solution the checks reject | React, TypeScript, SVG, Vitest |
 | [tn-torque](https://github.com/NahuelBurdisso/tn-torque) | Multi-store automation runtime: Postgres mirror, synthesized events, job queue, tested against a real database in CI | TypeScript, Node, SQL, Vitest |
 | [netwatch](https://github.com/NahuelBurdisso/netwatch) | Local DNS forwarder and per-device traffic dashboard for a home network | Rust, Tauri 2, React |
 | [snowdrift](https://github.com/NahuelBurdisso/snowdrift) | Endless snowboarding game with procedural streamed terrain | Unity 6, C# |
